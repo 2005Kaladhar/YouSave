@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>assets/closeButton.png</file>
+    <file>assets/minimiseButton.png</file>
+    <file>assets/Logo.png</file>
+  </qresource>
+</RCC>
